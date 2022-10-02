@@ -1,8 +1,1 @@
-<style>
-    .headline a{
-        text-decoration: none;
-        color: white;
-    }
-</style>
-
-# <span class="headline">FAP[13<sup>37</sup>](# 'leet')</span>
+# <span class="headline">FAP13<sub>37</sub></span>
