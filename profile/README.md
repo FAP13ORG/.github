@@ -1,4 +1,4 @@
-# <span class="headline">FAP13<sub>37</sub></span>
+# <span>FAP13<sub>37</sub></span>
 <img src="https://raw.githubusercontent.com/FAP13ORG/.github/main/media/fap13text.gif">
 
 <a href="http://fap13.xyz">
