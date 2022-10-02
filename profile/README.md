@@ -1,5 +1,8 @@
 # <span class="headline">FAP13<sub>37</sub></span>
 
 <a href="http://fap13.xyz">
-<img width=25px src="https://icongr.am/fontawesome/chrome.svg?size=128&color=ffffff">
+<img style="margin: 10px;" align="left" width=25px src="https://icongr.am/fontawesome/chrome.svg?size=128&color=ffffff">
+</a>
+<a href="https://github.com/FAP13ORG">
+<img style="margin: 10px;" align="left" width=25px src="https://icongr.am/fontawesome/github.svg?size=128&color=ffffff">
 </a>
